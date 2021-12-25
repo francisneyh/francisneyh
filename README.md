@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📫 Contato 👇
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisneyh//www.linkedin.com/in/francisney-henrique-balbino-ferreira-65571a70/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisney-henrique-balbino-ferreira-65571a70/)
 
 
 
