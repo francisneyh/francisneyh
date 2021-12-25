@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 Hoje trabalho como Analista de Sistemas
 - 💻 Estudando PHP
-- 🔒 Apaixonado por Segurança da Informação
+- 🔒 Apaixonado por Segurança da Informação e redes de computadores
 
 ##
 
