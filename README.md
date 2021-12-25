@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 📫 Contato 👇
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francisney-henrique-balbino-ferreira-65571a70/)
-
-
-
 <div align="center">
   <a href="https://github.com/francisneyh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francisneyh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -37,8 +33,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Francisney-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   <img align="center"  alt="Francisney-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>  
   <img align="center" alt="Francisney-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
 </div>
   
 ##
@@ -55,5 +49,3 @@ Here are some ideas to get you started:
  <!-- ![Snake animation](https://github.com/rafaballerini/francisneyh/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
-
-  
