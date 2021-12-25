@@ -1,5 +1,7 @@
 ### Olá 👋, eu sou o Francisney Henrique
 
+##
+
 <!--
 **francisneyh/francisneyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,13 +21,18 @@ Here are some ideas to get you started:
 - 💻 Estudando PHP
 - 🔒 Apaixonado por Segurança da Informação
 
+##
+
 📫 Contato 👇
+
+##
 
 <div>
   <a href = "mailto:francisneyh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/francisney-henrique-balbino-ferreira-65571a70/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
+
+<br>
 
 <div align="center">
   <a href="https://github.com/francisneyh">
