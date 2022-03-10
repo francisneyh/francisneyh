@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Hoje trabalho como Analista de Sistemas
-- 💻 Estudando PHP
+
+- 💻 Estudando tecnologias web
 - 🔒 Apaixonado por Segurança da Informação e redes de computadores
 
 ##
