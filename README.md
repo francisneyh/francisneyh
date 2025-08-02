@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 💻 Estudando tecnologias web
-- 🔒 Apaixonado por Segurança da Informação e redes de computadores
+
 
 ##
 
